@@ -1,0 +1,2 @@
+Hello, this is my first DevOps practical.
+This is the update from feature branch.
